@@ -22,7 +22,7 @@ int main() {
     scanf("%d", &d);
     
     M = (a+b+c+d)/4;
-    printf(" La moyenne est : %lf", M);
+    printf(" La moyenne est : %lf",(double) M);
   
     
     return 0;
